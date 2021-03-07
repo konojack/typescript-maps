@@ -1,0 +1,24 @@
+{
+  "name": "typescript-maps",
+  "version": "1.0.0",
+  "description": "typescript-maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konojack/typescript-maps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konojack/typescript-maps/issues"
+  },
+  "homepage": "https://github.com/konojack/typescript-maps#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {}
+}
